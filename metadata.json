@@ -1,0 +1,5 @@
+{
+  "name": "C langBot - C Language Chatbot",
+  "description": "An interactive chatbot powered by Gemini that provides expert help on the C programming language, complete with code examples and explanations.",
+  "requestFramePermissions": []
+}
